@@ -49,8 +49,6 @@ Resumes are an ideal example of unstructured data. Since there is no widely acce
 </div>
 
 
-## ✍️ Author
-- [Shanu Halli](https://github.com/shanuhalli)
 
 <div align="center">
     <img src="https://avatars.githubusercontent.com/u/109328924?v=4" width="200" />
